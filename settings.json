@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CubixLand.aternos.me:",
+    "ip": "CubixLand.aternos.me",
     "port": "61333",
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
