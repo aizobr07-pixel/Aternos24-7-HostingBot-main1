@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "CubixLand.aternos.me:",
-    "port": 61333,
+    "port": "61333",
     "version": "1.21.11",
     "try-creative": false
   },
